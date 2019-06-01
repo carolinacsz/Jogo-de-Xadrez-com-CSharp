@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xadrez_console", "xadrez_console\xadrez_console.csproj", "{DBB14CAC-A9A6-46C4-BA03-5FF2776BE634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB14CAC-A9A6-46C4-BA03-5FF2776BE634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB14CAC-A9A6-46C4-BA03-5FF2776BE634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB14CAC-A9A6-46C4-BA03-5FF2776BE634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB14CAC-A9A6-46C4-BA03-5FF2776BE634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
